@@ -29,3 +29,4 @@ Place the folder to htdocs folder or your web server directory, and then open th
 > Please never use old PHP version it's literally a nightmare. 
 
 [Original Project](https://github.com/kevinnvm/altmvc)
+# altmvc-legacy-example-project
